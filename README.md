@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_divyam_deep" target="blank"><img src="https://img.shields.io/twitter/follow/the_divyam_deep?logo=twitter&style=for-the-badge" alt="the_divyam_deep" /></a> </p>
 
-- 💬 Ask me about **Deep Learning , Augmented Reality**
+- 💬 Ask me about **Data Scientist and Data Analyst**
 
 - 📫 How to reach me **d2minid2@gmail.com**
 
